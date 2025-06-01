@@ -1,7 +1,7 @@
 import { createBrowserRouter, Navigate } from "react-router-dom";
-import AboutUs from "../presentation/pages/about-us/aboutUs";
-import Home from "../presentation/pages/home/Home";
-import Products from "../presentation/pages/products/products";
+import AboutUs from "../presentation/pages/about-us/aboutUs.page";
+import Home from "../presentation/pages/home/home.page";
+import Products from "../presentation/pages/products/products.page";
 import Main from "../presentation/pages/main";
 
 

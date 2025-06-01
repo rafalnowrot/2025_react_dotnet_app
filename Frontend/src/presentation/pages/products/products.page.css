@@ -1,0 +1,7 @@
+.products-container {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr); /* dokładnie 4 kolumny */
+  gap: 2rem;
+  padding: 2rem;
+  justify-items: center;
+}
